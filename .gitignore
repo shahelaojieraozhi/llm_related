@@ -141,16 +141,6 @@ model_result/*
 *.csv
 *.bin
 
-test003/*
-data2/*
-cache_data/*
-/simple_thu_chatglm6b/data2/
-/simple_thu_chatglm6b/cache_data/
-/simple_thu_chatglm6b/test004/
-/simple_thu_chatglm6b/alpaca_chinese_dataset/
-test004/*
-/simple_thu_chatglm6b/alpaca_chinese_dataset/*
-
 .DS_Store
 
 
